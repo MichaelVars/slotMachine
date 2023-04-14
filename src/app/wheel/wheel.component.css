@@ -1,0 +1,8 @@
+div{
+    height: 200px;
+    overflow: scroll;
+}
+
+div::-webkit-scrollbar{
+    display: none;
+}
